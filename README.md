@@ -88,5 +88,5 @@ I am especially interested in projects where AI models interact with APIs, datab
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/kaustubhnikam
+- LinkedIn: https://www.linkedin.com/in/kaustubhnikam/
 - Email: kaustubhnikam2710@gmail.com
